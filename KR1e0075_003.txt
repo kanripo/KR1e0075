@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳辨疑
-#+DATE: 2015-09-23 09:40:11
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:15:42.621795
+#+PROPERTY: ID KR1e0075
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 題春秋經傳辨疑後
 <pb:KR1e0075_WYG_003-1a>¶
 題春秋經傳辨疑後¶
 蘭溪童君廷式爲春秋經傳辨疑之一帙凡九十三首¶
@@ -17,4 +19,3 @@
 亦欲探聖人之心者乎嗚呼聖人之心得不得焉即其¶
 言可知予書此卷末蓋亦不能無愧也成化二十二年¶
 秋七月朔日烏傷王汶謹識¶
-

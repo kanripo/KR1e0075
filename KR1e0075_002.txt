@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋經傳辨疑
-#+DATE: 2015-09-23 09:40:11
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:15:42.606387
+#+PROPERTY: ID KR1e0075
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1e0075_WYG_002-1a>¶
 欽定四庫全書¶
 　春秋經傳辨疑卷下　　　　明　童品　撰¶
@@ -380,4 +382,3 @@
 　¶
 　¶
 　春秋經傳辨疑卷下¶
-
